@@ -1,0 +1,30 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrap": "on",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Theme",
+    "python.defaultInterpreterPath": "C:\\Users\\Master\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "cmake.showOptionsMovedNotification": false,
+    "gitlens.ai.model": "deepseek:deepseek-chat",
+    "gitlens.ai.gitkraken.model": "gemini:gemini-2.0-flash",
+   
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontLigatures": true,
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.inlineSuggest.showToolbar": "always",
+    "workbench.preferredHighContrastColorTheme": "Dracula Theme",
+    "editor.fontFamily": "JetBrains Mono",
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": -1 ,
+
+}
