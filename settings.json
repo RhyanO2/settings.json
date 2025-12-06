@@ -2,8 +2,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.wordWrap": "on",
     "liveServer.settings.CustomBrowser": "chrome",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Dracula Theme",
     "python.defaultInterpreterPath": "C:\\Users\\Master\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
     "cmake.showOptionsMovedNotification": false,
     "gitlens.ai.model": "deepseek:deepseek-chat",
@@ -17,7 +15,6 @@
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.inlineSuggest.showToolbar": "always",
     "workbench.preferredHighContrastColorTheme": "Dracula Theme",
     "editor.fontFamily": "JetBrains Mono",
 
@@ -25,6 +22,28 @@
     "editor.codeLensFontFamily": "JetBrains Mono",
     "javascript.updateImportsOnFileMove.enabled": "never",
     "explorer.confirmDelete": false,
-    "window.zoomLevel": -1 ,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.location": "top",
+    "files.autoSave": "afterDelay",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "editor.minimap.enabled": false,
+    "gitlens.views.fileHistory.mode": "contributors",
+    "workbench.navigationControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "prettier.singleQuote": true,
+    "workbench.startupEditor": "none",
+    "window.commandCenter": false,
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.mouseWheelZoom": true,
+    "breadcrumbs.enabled": false,
 
 }
